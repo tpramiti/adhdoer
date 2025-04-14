@@ -1,0 +1,11 @@
+{
+	"id": "adhdoer",
+	"name": "ADHDoer",
+	"version": "0.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "An ADHD-friendly plugin to send selected text to OpenAI with no tab switching or copy-paste. Built for deep focus and action.",
+	"author": "Pramiti Upadhyay",
+	"authorUrl": "http://www.thenaarad.com",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}

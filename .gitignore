@@ -1,0 +1,20 @@
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Node dependencies
+node_modules/
+
+# Build output
+main.js
+*.map
+
+# Obsidian-specific
+data.json
+.DS_Store
+
+# Optional release bundles
+*.zip
+dist/
+
